@@ -1,6 +1,6 @@
 # Работа с файлами, DnD
 
-[![Build status](https://ci.appveyor.com/api/projects/status/yte1a979u6tdjjve/branch/main?svg=true)](https://ci.appveyor.com/project/SergeiKostiaev/ahj-hw-dnd/branch/main)
+#### [![Build status](https://ci.appveyor.com/api/projects/status/yte1a979u6tdjjve/branch/main?svg=true)](https://ci.appveyor.com/project/SergeiKostiaev/ahj-hw-dnd/branch/main) [[Github Pages](https://sergeikostiaev.github.io/ahj_hw_dnd)]
 
 ---
 
